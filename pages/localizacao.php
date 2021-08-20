@@ -1,1 +1,1 @@
-<img src='images/localizacaofabrica.PNG'>
+<img src='images/localizacaofabrica2.PNG'>

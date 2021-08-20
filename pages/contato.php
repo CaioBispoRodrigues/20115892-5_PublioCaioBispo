@@ -14,7 +14,7 @@
 			</textarea><br>
 			<button>Enviar</button>
 		</form>
-		<img src='#'>
+		<img src='images/doces.png'>
 	</div>
 	
 	
