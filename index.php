@@ -9,14 +9,48 @@
     <title>Pagina Inicial</title>
 </head>
 <body>
-    <!-- Pagina Inicial do Site !-->
-    <header>
-        
-        <img src="images/receitas-de-doces-Brigadeirão.jpg" alt="Bolo de Brigadeiro" height="250px">
-        <h1>TOPO DO SITE</h1>
-    </header>
-    <p>TESTE DO GIT HUB</p>
+	<div id="header">
+		<div id="logo">
+			<a href="?pg=1" ><img src="images/logo2.JPG"></a>
+		</div>
+	</div>
+	<div id="menu">
+		<nav>
+         <ul>
+           <li><a href="index.php?pg=1">Home</a></li>
+           <li><a href="index.php?pg=2">Quem somos</a></li>           
+           <li><a href="index.php?pg=3">Contato</a></li>
+           <li><a href="index.php?pg=4">localização</a></li>
+          </ul>
+        </nav>
+	</div>
 
+	<div id="main">
+		<div class="article">
+			<h1> 
+				<?php
+					include_once('function/controlar.php'); 
+					@$valor = $_GET['pg'];
+					controlarAcesso($valor);
 
+				 ?>
+				 
+			</h1>
+		</div>
+		</div>
+	<div id="sidebar">
+		
+	</div>
+<br>
+	<div id="footer">
+		<p>
+			Aluno: Públio Caio Pires Bispo Rodrigues<br>
+			RA: 20115892-5<br>
+			CURSO: SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET<br>
+			UNIVERSIDADE CESUMAR - UNICESUMAR
+		</p>
+	</div>
+			
+	
 </body>
 </html>
