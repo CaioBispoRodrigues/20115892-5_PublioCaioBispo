@@ -4,6 +4,11 @@
  Matricula: 20115892-5<br><br>
 
 
+Estudante de Programação em Curso em Vídeo, Estudonauta e Programadorbr. <br> 
+Matérias de Front-end. html5 css3 javascripit, <br>
+Experiencias em html5 CSS3 javascripit e um pouco de PhP.<br><br><br><br>
+
+
 Quais estruturas devem seguir para construção do meu projeto?<br>
  
 1 - Criar um diretório raiz do seu projeto com o seu RA seguido do seu nome (Ex.: 20015689-4_RafaelFlorindo). (OK)<br>
