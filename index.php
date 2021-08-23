@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="css/style.css" type="text/css">
     <link rel="shortcut icon" href="images/Babysnoop03-Reborn-Candy.ico" type="image/x-icon">
-    <title>Pagina Inicial</title>
+    <title>Mapa Back End 1</title>
 </head>
 <body>
 	<div id="header">
